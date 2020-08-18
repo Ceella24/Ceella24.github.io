@@ -18,7 +18,7 @@ I am a member of the team of Professor Odest Chadwicke Jenkins (Chad Jenkins for
 
 ## About My Project
 
-Our project is a robotics education project. It will explore ways to teach building of an omni-drive robot platform and its autonomous pathfinding to first-year undergraduates. Some members of the team work more on the platform end, and the others (including myself) work more on programming for pathfinding.
+Our project is a robotics education project. It will explore ways to teach building of an omni-drive robot platform and its autonomous pathfinding to first-year undergraduates. We are working on developing ROB 102 and ROB 103 which are first year robotics courses for the University of Michigan. Some members of my team work more on the platform end, and the others (including myself) work more on programming for pathfinding.
 
 [My Final Report](files/finalreport.pdf)
 
